@@ -1,6 +1,6 @@
 # Hey there! <img src="https://media.giphy.com/media/f6pOe5e2x3fTAnyyx9/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=60)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=white&link=https://your-resume-link)](https://your-resume-link)
@@ -54,9 +54,5 @@ A personal portfolio website to showcase my projects and skills.
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
-
 Feel free to reach out if you have any questions or collaboration ideas!
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
