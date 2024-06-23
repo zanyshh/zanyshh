@@ -1,6 +1,5 @@
-# Hey there! <img src="https://media.giphy.com/media/f6pOe5e2x3fTAnyyx9/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=60)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=white&link=https://your-resume-link)](https://your-resume-link)
@@ -23,13 +22,13 @@
 <td>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Sanish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=nord" alt="Sanish's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="Sanish's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=nord" alt="Sanish's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Sanish's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=nord" alt="Sanish's Most Used Languages" />
 </p>
 
 </td>
@@ -59,4 +58,4 @@ Feel free to reach out if you have any questions or collaboration ideas!
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+
