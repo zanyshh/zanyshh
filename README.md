@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey there! <img src="https://media.giphy.com/media/f6pOe5e2x3fTAnyyx9/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!--
-**zanyshh/zanyshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=60)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=white&link=https://your-resume-link)](https://your-resume-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About
+
+<table>
+<tr>
+<td>
+  
+- 🎓 Aspiring software developer and AI enthusiast preparing for KEAM and JEE.
+- 🌱 Learning new technologies and improving problem-solving skills.
+- 🔭 Interested in studying and working abroad in the field of software development.
+- 💬 Spanish and English speaker.
+- 🛠️ Proficient in C++, Java, Python, HTML, CSS, JavaScript.
+- 🤖 Enthusiastic about AI and machine learning.
+- 🎮 Passionate about open source and contributing to the developer community.
+  
+</td>
+<td>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=graywhite&icon_color=000000&title_color=000000&text_color=000000" alt="Sanish's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=graywhite&ring=000000&fire=000000&currStreakLabel=000000" alt="Sanish's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&title_color=000000&text_color=000000" alt="Sanish's Most Used Languages" />
+</p>
+
+</td>
+</tr>
+</table>
+
+## 📂 Projects
+
+### [Project 1: AI Chatbot](https://github.com/your-github-username/AI-Chatbot)
+A simple AI chatbot built using Python and natural language processing.
+
+### [Project 2: Personal Portfolio Website](https://github.com/your-github-username/Portfolio-Website)
+A personal portfolio website to showcase my projects and skills.
+
+## 📫 Contact Me
+
+- 📧 Email: sanishsangeeth@example.com
+- 💼 LinkedIn: [Sanish Sangeeth](https://www.linkedin.com/in/sanishsangeeth)
+
+## 📜 License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+Feel free to reach out if you have any questions or collaboration ideas!
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
