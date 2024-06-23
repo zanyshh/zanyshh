@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+# Hey there!  <img src="https://media.giphy.com/media/0r6H9d02fOCuCzF2Mn/giphy.gif" width="30px">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
@@ -56,9 +56,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 Feel free to reach out if you have any questions or collaboration ideas!
 
-<<<<<<< HEAD
----
-
-
-=======
->>>>>>> 8178f9bbe8422f6e1496e62cdf7c3662314863e8
