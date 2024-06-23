@@ -18,7 +18,7 @@
 - ☁️ Proficient in C++, Java, Python, HTML, CSS, JavaScript.
 - 📖 Enthusiastic about AI and machine learning.
 - ❔ extemely passionate about FOSS and open source software.
-- ☠️ SOftware of choice is linux as i do not get the same feedom on windows.
+- ☠️ Software of choice is linux as i do not get the same feedom on windows.
   
 </td>
 <td>
@@ -38,12 +38,8 @@
 </table>
 
 ## ☁️ Projects
+  ###no current projects
 
-### [Project 1: AI Chatbot](https://github.com/your-github-username/AI-Chatbot)
-A simple AI chatbot built using Python and natural language processing.
-
-### [Project 2: Personal Portfolio Website](https://github.com/your-github-username/Portfolio-Website)
-A personal portfolio website to showcase my projects and skills.
 
 ## 🐻‍❄️ Contact Me
 
