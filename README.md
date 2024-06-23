@@ -1,4 +1,4 @@
-# Hey there! <img src="https://media.giphy.com/media/f6pOe5e2x3fTAnyyx9/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 
@@ -11,13 +11,14 @@
 <tr>
 <td>
   
-- 🎓 Aspiring software developer and AI enthusiast preparing for KEAM and JEE.
-- 🌱 Learning new technologies and improving problem-solving skills.
-- 🔭 Interested in studying and working abroad in the field of software development.
-- 💬 Spanish and English speaker.
-- 🛠️ Proficient in C++, Java, Python, HTML, CSS, JavaScript.
-- 🤖 Enthusiastic about AI and machine learning.
-- 🎮 Passionate about open source and contributing to the developer community.
+- 🐻‍❄️ Hi im Aspiring software developer and AI enthusiast.
+- 👁️ Learning new technologies and improving problem-solving skills.
+- 🤍 Interested in studying and working abroad in the field of software development.
+- 💬 Proficient English speaker.
+- ☁️ Proficient in C++, Java, Python, HTML, CSS, JavaScript.
+- 📖 Enthusiastic about AI and machine learning.
+- ❔ extemely passionate about FOSS and open source software.
+- ☠️ SOftware of choice is linux as i do not get the same feedom on windows.
   
 </td>
 <td>
@@ -36,7 +37,7 @@
 </tr>
 </table>
 
-## 📂 Projects
+## ☁️ Projects
 
 ### [Project 1: AI Chatbot](https://github.com/your-github-username/AI-Chatbot)
 A simple AI chatbot built using Python and natural language processing.
@@ -44,7 +45,7 @@ A simple AI chatbot built using Python and natural language processing.
 ### [Project 2: Personal Portfolio Website](https://github.com/your-github-username/Portfolio-Website)
 A personal portfolio website to showcase my projects and skills.
 
-## 📫 Contact Me
+## 🐻‍❄️ Contact Me
 
 - 📧 Email: sanishsangeeth@example.com
 - 💼 LinkedIn: [Sanish Sangeeth](https://www.linkedin.com/in/sanishsangeeth)
