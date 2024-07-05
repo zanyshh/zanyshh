@@ -1,11 +1,11 @@
 
-# Hi!?  <img src="https://media.giphy.com/media/3o6Zt6Djo3TBtXMSyY/giphy.gif" width="30px">
+# Hi!?  <img src="https://giphy.com/embed/YARUMKaGd8cRG" width="30px" height="30px">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=white&link=https://your-resume-link)](https://your-resume-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=blue&link=https://your-resume-link)](https://your-resume-link)
 
-##About 
+## 🐰About 
 
 <table>
 <tr>
