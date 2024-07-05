@@ -1,16 +1,16 @@
 
-# Hey there!  <img src="https://media.giphy.com/media/3o6Zt6Djo3TBtXMSyY/giphy.gif" width="30px">
+# Hi!?  <img src="https://media.giphy.com/media/3o6Zt6Djo3TBtXMSyY/giphy.gif" width="30px">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=white&link=https://your-resume-link)](https://your-resume-link)
 
-
+##About 
 
 <table>
 <tr>
 <td>
-  ##About
+
 - 🐻‍❄️ Aspiring software developer and AI enthusiast.
 - ☁️ Learning new technologies and improving problem-solving skills.
 - 💬 Proficient in English 
