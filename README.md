@@ -11,7 +11,6 @@
 <tr>
 <td>
   ##About
-  <br>
 - 🐻‍❄️ Aspiring software developer and AI enthusiast.
 - ☁️ Learning new technologies and improving problem-solving skills.
 - 💬 Proficient in English 
