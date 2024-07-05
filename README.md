@@ -5,12 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=white&link=https://your-resume-link)](https://your-resume-link)
 
-## 🤍 About
+
 
 <table>
 <tr>
 <td>
-  
+  ##About
+  <br>
 - 🐻‍❄️ Aspiring software developer and AI enthusiast.
 - ☁️ Learning new technologies and improving problem-solving skills.
 - 💬 Proficient in English 
@@ -55,5 +56,5 @@ A personal portfolio website to showcase my projects and skills.
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 
-[![](https://visitcount.itsvg.in/api?id=zanyshh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zanyshh&icon=5&color=12)](https://visitcount.itsvg.in)
 
