@@ -1,5 +1,5 @@
 
-# Hi!?  <img src="https://giphy.com/embed/WOwiryOPA0G6jhKqB0" width="30px" height="30px">
+# Hi!? 🐻‍❄️
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
@@ -40,10 +40,10 @@
 ## ☁️ Projects
 
 ### [Project 1: AI Chatbot](https://github.com/your-github-username/AI-Chatbot)
-A simple AI chatbot built using Python and natural language processing.
+     A simple AI chatbot built using Python and natural language processing.
 
 ### [Project 2: Personal Portfolio Website](https://github.com/your-github-username/Portfolio-Website)
-A personal portfolio website to showcase my projects and skills.
+     A personal portfolio website to showcase my projects and skills.
 
 ## 🐻‍❄️ Contact Me
 
