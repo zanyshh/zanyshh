@@ -1,6 +1,8 @@
 
 # Hi!? 🐻‍❄️
 
+ <img align="right" width="300" src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=blue&link=https://your-resume-link)](https://your-resume-link)
