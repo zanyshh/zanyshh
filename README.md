@@ -1,10 +1,11 @@
 
+[![GitHub](https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=%23D8DEE9)](https://github.com/BrianRuizy)
+[![GitLab](https://img.shields.io/badge/gitlab-%232E3440.svg?&style=for-the-badge&logo=gitlab&logoColor=%2388C0D0)](https://github.com/BrianRuizy)
+[![Instagram](https://img.shields.io/badge/instagram-%232E3440.svg?&style=for-the-badge&logo=instagram&logoColor=%2381A1C1)](https://instagram.com/brianruizy)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=%235E81AC)](https://www.linkedin.com/in/brianruizy/)
+[![YouTube](https://img.shields.io/badge/youtube-%232E3440.svg?&style=for-the-badge&logo=youtube&logoColor=%238FBCBB)](https://www.youtube.com/channel/UCCIFp-Se_xjfYc94H04oK7Q)
 
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/BrianRuizy)
-[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/BrianRuizy)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/brianruizy) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brianruizy/)
-[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCCIFp-Se_xjfYc94H04oK7Q)
+
 
 - 🐻‍❄️ Aspiring software developer and AI enthusiast.
 - ☁️ Learning new technologies and improving problem-solving skills.
