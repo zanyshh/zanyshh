@@ -15,12 +15,12 @@
 - 🍵 I build with:
 ![Python](https://img.shields.io/badge/python-%232E3440?style=flat&logo=python&logoColor=%2381A1C1)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%232E3440?style=flat&logo=PyTorch&logoColor=%23EE4C2C)
-![JavaScript](https://img.shields.io/badge/javascript-%232E3440?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%232E3440?style=flat&logo=javascript&logoColor=%23F7DF1E) <p>
 ![Scipy](https://img.shields.io/badge/SciPy-%232E3440?style=flat&logo=scipy&logoColor=%2388C0D0)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%232E3440?style=flat&logo=TensorFlow&logoColor=%23FF6F00)
 ![Pandas](https://img.shields.io/badge/pandas-%232E3440?style=flat&logo=pandas&logoColor=%23D8DEE9)
 ![NumPy](https://img.shields.io/badge/numpy-%232E3440?style=flat&logo=numpy&logoColor=%235E81AC)
-![PowerShell](https://img.shields.io/badge/PowerShell-%232E3440?style=flat&logo=powershell&logoColor=%235391FE)
+![PowerShell](https://img.shields.io/badge/PowerShell-%232E3440?style=flat&logo=powershell&logoColor=%235391FE) </p>
 
 
 
