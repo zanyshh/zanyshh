@@ -1,13 +1,4 @@
-
-# Hi!? 🐻‍❄️
-
- <img align="right" width="300" src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682" />
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/sanishsangeeth)](https://www.linkedin.com/in/sanishsangeeth)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=resume&logoColor=blue&link=https://your-resume-link)](https://your-resume-link)
-
-## 🐰About 
+# 🐰About Me
 
 <table>
 <tr>
@@ -39,7 +30,7 @@
 </tr>
 </table>
 
-## ☁️ Projects
+# ☁️ Projects
 
 ### [Project 1: AI Chatbot](https://github.com/your-github-username/AI-Chatbot)
      A simple AI chatbot built using Python and natural language processing.
@@ -47,12 +38,12 @@
 ### [Project 2: Personal Portfolio Website](https://github.com/your-github-username/Portfolio-Website)
      A personal portfolio website to showcase my projects and skills.
 
-## 🐻‍❄️ Contact Me
+# 🐻‍❄️ Contact Me
 
 - 📧 Email: zanysh@gmail.com
 - 💼 LinkedIn: [Sanish Sangeeth](https://www.linkedin.com/in/sanishsangeeth)
 
-## 📜 License
+# 📜 License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
