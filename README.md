@@ -25,7 +25,3 @@
 
 
 
-
-[![](https://visitcount.itsvg.in/api?id=zanyshh&icon=5&color=2E3440&icon_color=D8DEE9&style=flat)](https://visitcount.itsvg.in)
-
-
