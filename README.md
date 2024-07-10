@@ -12,8 +12,7 @@
 - 💬 Proficient in English 
 - 👁️ Enthusiastic about AI and ML.
 - 🏐 passionate about the FOSS community and Linux.
-- 🍵 I build with:
-<p>
+- 🍵 I build with:<p>
 ![Python](https://img.shields.io/badge/python-%232E3440?style=flat&logo=python&logoColor=%2381A1C1)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%232E3440?style=flat&logo=PyTorch&logoColor=%23EE4C2C)
 ![JavaScript](https://img.shields.io/badge/javascript-%232E3440?style=flat&logo=javascript&logoColor=%23F7DF1E) 
