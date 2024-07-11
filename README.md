@@ -7,11 +7,11 @@
 
 
 
-- 🐻‍❄️ Aspiring software developer and AI enthusiast.
-- ☁️ Learning new technologies and improving problem-solving skills.
-- 💬 Proficient in English 
-- 👁️ Enthusiastic about AI and ML.
-- 🏐 passionate about the FOSS community and Linux.
+- 🐻‍❄️ Aspiring software developer and AI enthusiast
+- ☁️ Learning new technologies and improving problem-solving skills
+- 💬 Proficient in English
+- 👁️ Enthusiastic about AI and ML
+- 🏐 passionate about the FOSS community and Linux
 - 🍵 I build with:
 ![Python](https://img.shields.io/badge/python-%232E3440?style=flat&logo=python&logoColor=%2381A1C1)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%232E3440?style=flat&logo=PyTorch&logoColor=%23EE4C2C)
