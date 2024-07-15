@@ -1,9 +1,9 @@
 
-[![GitHub](https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=%23D8DEE9)](https://github.com/BrianRuizy)
-[![GitLab](https://img.shields.io/badge/gitlab-%232E3440.svg?&style=for-the-badge&logo=gitlab&logoColor=%2388C0D0)](https://github.com/BrianRuizy)
-[![Instagram](https://img.shields.io/badge/instagram-%232E3440.svg?&style=for-the-badge&logo=instagram&logoColor=%2381A1C1)](https://instagram.com/brianruizy)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=%235E81AC)](https://www.linkedin.com/in/brianruizy/)
-[![YouTube](https://img.shields.io/badge/youtube-%232E3440.svg?&style=for-the-badge&logo=youtube&logoColor=%238FBCBB)](https://www.youtube.com/channel/UCCIFp-Se_xjfYc94H04oK7Q)
+[![GitHub](https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=%23D8DEE9)](https://github.com/zanyshh)
+[![GitLab](https://img.shields.io/badge/gitlab-%232E3440.svg?&style=for-the-badge&logo=gitlab&logoColor=%2388C0D0)](https://gitlab.com/sanishsangeeth973)
+[![Instagram](https://img.shields.io/badge/instagram-%232E3440.svg?&style=for-the-badge&logo=instagram&logoColor=%2381A1C1)](https://www.instagram.com/zanyshh/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=%235E81AC)](https://www.linkedin.com/in/sanish-sangeeth-64b86b310/)
+[![YouTube](https://img.shields.io/badge/youtube-%232E3440.svg?&style=for-the-badge&logo=youtube&logoColor=%238FBCBB)](https://www.youtube.com/@zanylyf)
 
 
 
