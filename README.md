@@ -21,6 +21,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%232E3440?style=flat&logo=pandas&logoColor=%23D8DEE9)
 ![NumPy](https://img.shields.io/badge/numpy-%232E3440?style=flat&logo=numpy&logoColor=%235E81AC)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%232E3440?style=flat&logo=powershell&logoColor=%235391FE) 
+![Figma](https://img.shields.io/badge/figma-%232E3440.svg?style=flat&logo=figma&logoColor=%23D8DEE9)
+
 
 
 
