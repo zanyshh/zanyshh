@@ -13,6 +13,7 @@
 - 👁️ Enthusiastic about AI and ML
 - 🏐 passionate about the FOSS community and Linux
 - 🍵 I build with:
+
 ![Python](https://img.shields.io/badge/python-%232E3440?style=flat&logo=python&logoColor=%2381A1C1)
 ![Rust](https://img.shields.io/badge/rust-%232E3440.svg?style=flat&logo=rust&logoColor=%23D8DEE9)
 ![HTML5](https://img.shields.io/badge/html5-%232E3440.svg?style=flat&logo=html5&logoColor=%23D8DEE9)
