@@ -6,6 +6,7 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23282828.svg?&style=for-the-badge&logo=youtube&logoColor=%23cc241d)](https://www.youtube.com/@zanylyf)
 
 - 🐻‍❄️ Aspiring software developer and AI enthusiast
+- 🌟 Passionate about AI and ML
 - ☁️ Learning new technologies and improving problem-solving skills
 - 💬 Proficient in English
 - 👁️ Enthusiastic about AI and ML
@@ -15,14 +16,5 @@
 ![Rust](https://img.shields.io/badge/rust-%23282828.svg?style=flat&logo=rust&logoColor=%23d65d0e)
 ![HTML5](https://img.shields.io/badge/html5-%23282828.svg?style=flat&logo=html5&logoColor=%23cc241d)
 ![CSS3](https://img.shields.io/badge/css3-%23282828.svg?style=flat&logo=css3&logoColor=%23458588)
-![JavaScript](https://img.shields.io/badge/javascript-%23282828?style=flat&logo=javascript&logoColor=%23fabd2f) 
+![JavaScript](https://img.shields.io/badge/javascript-%23282828?style=flat&logo=javascript&logoColor=%23fabd2f)
 ![Figma](https://img.shields.io/badge/figma-%23282828.svg?style=flat&logo=figma&logoColor=%23b16286)
-
-
-
-
-
-
-
-
-
